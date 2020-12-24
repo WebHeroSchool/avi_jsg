@@ -110,6 +110,8 @@ switch (true) {
  case money <= 100:
  	console.log ('Плеер');
   break;
+  default:
+    alert( "Нет таких значений" );
 }
 ```
 ## 9. Отложить загрузку скриптов
